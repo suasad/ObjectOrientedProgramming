@@ -3,5 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="AirTrafficControl/src"/>
 	<classpathentry kind="src" path="FileSystem/src"/>
+	<classpathentry kind="src" path="ParkingLot"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
