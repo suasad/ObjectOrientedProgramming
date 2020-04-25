@@ -1,4 +1,4 @@
-package com;
+
 
 public class ElectricCarSpot extends CarSpot{
 	CarSpot carspot;

@@ -1,4 +1,4 @@
-package com;
+
 
 public class Upi implements PaymentMethod{
 	@Override

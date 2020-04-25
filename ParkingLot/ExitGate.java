@@ -1,4 +1,4 @@
-package com;
+
 
 public class ExitGate implements Gate{
 	Cashier cashier;

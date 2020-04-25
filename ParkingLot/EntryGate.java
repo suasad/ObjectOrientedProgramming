@@ -1,4 +1,4 @@
-package com;
+
 
 public class EntryGate implements Gate{
 	

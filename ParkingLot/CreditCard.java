@@ -1,4 +1,4 @@
-package com;
+
 
 public class CreditCard implements PaymentMethod{
 

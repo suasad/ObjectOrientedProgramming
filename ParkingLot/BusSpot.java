@@ -1,9 +1,11 @@
-package com;
 
-public class CarSpot extends Spot {
-	CarSpot() {
-		this.size = Size.MEDIUM;
+
+public class BusSpot extends Spot {
+	
+	BusSpot() {
+		this.size = Size.LARGE;
 	}
+
 	@Override
 	int getCost(Ticket ticket) {
 		// TODO Auto-generated method stub

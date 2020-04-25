@@ -1,4 +1,4 @@
-package com;
+
 
 public class Bike extends Vehicle {
 	Bike() {

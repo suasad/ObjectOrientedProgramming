@@ -1,4 +1,4 @@
-package com;
+
 
 public class BikeSpot extends Spot {
 	BikeSpot() {

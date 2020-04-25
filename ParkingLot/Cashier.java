@@ -1,4 +1,4 @@
-package com;
+
 
 public class Cashier extends Account{
 	

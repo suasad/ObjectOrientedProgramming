@@ -1,4 +1,4 @@
-package com;
+
 
 public class Account {
 	String accountId;
