@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="AirTrafficControl/src"/>
-	<classpathentry kind="src" path="FileSystem/src"/>
 	<classpathentry kind="src" path="ParkingLot"/>
 	<classpathentry kind="src" path="FaceBook"/>
 	<classpathentry kind="src" path="BookMyShow"/>
+	<classpathentry kind="src" path="InMemoryFileSystem"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

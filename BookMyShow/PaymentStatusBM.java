@@ -1,5 +1,5 @@
 
-public enum PaymentStatus {
+public enum PaymentStatusBM {
 	PROCESSED,
 	COMPLETED,
 	SETTLED,

@@ -1,5 +1,5 @@
 
-public class CreditCard implements Payment{
+public class CreditCardBM implements Payment{
 
 	@Override
 	public boolean pay(int cost) {
